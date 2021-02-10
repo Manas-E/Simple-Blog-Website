@@ -16,3 +16,4 @@ Public folder contains css and js files included in the program.
   - Click on Home, about and Contact to view the respective pages.
   - Click on the "read more" to go to full page version of the post.
   
+
