@@ -1,5 +1,5 @@
 # Simple-Blog-Website
-A basic blog website that lets you create blogpost and view all of them.
+A Full Stack blog website that lets you create blogpost and view all of them.
 
 # Files 
 ## App.js
